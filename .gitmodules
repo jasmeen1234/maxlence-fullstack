@@ -1,0 +1,3 @@
+[submodule "maxlence-fullstack"]
+	path = maxlence-fullstack
+	url = https://github.com/jasmeen1234/maxlence-fullstack.git
